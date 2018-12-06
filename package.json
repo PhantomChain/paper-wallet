@@ -1,12 +1,12 @@
 {
   "name": "phantompaperwallet",
-  "version": "0.1.2",
-  "description": "=Official paper wallet generator for PHANTOM's cryptocurrency.",
-  "homepage": "https://github.com/phantomcore/paper-wallet",
-  "bugs": "https://github.com/phantomcore/paper-wallet/issues",
+  "version": "2.0.0",
+  "description": "official paper wallet generator for PHANTOM's cryptocurrency.",
+  "homepage": "https://github.com/PhantomChain/paper-wallet",
+  "bugs": "https://github.com/PhantomChain/paper-wallet/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phantomcore/paper-wallet"
+    "url": "https://github.com/PhantomChain/paper-wallet"
   },
   "dependencies": {
     "phantomjscore": "^0.2.1",
